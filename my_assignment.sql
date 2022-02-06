@@ -1,3 +1,3 @@
 use northwind;
-SELECT * From category;
+SELECT CategoryID,CategoryName,Description From category;
 
